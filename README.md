@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Facundo+%F0%9F%91%8B;Bienvenido+a+mi+perfil" alt="Typing SVG" />
-
-<br/>
+# Hola, soy Facundo
 
 ### &lt; Desarrollador Full Stack /&gt;
 
@@ -20,7 +18,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Desarrollador Full Stack Junior en formación en **ITU - UNCUYO**, con experiencia en proyectos personales y freelance.
 
@@ -28,67 +26,17 @@ Me enfoco en construir soluciones funcionales, aprender nuevas tecnologías y se
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
-### Frontend
-
-<table>
-<tr>
-
-<td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=react" width="50" alt="React"><br><br>
-<b>React</b>
-</td>
-
-<td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript"><br><br>
-<b>TypeScript</b>
-</td>
-
-</tr>
-</table>
-
-### Backend
-
-<table>
-<tr>
-
-<td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"><br><br>
-<b>Node.js</b>
-</td>
-
-<td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=express" width="50" alt="Express"><br><br>
-<b>Express</b>
-</td>
-
-</tr>
-</table>
-
-### Bases de datos
-
-<table>
-<tr>
-
-<td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"><br><br>
-<b>MySQL</b>
-</td>
-
-<td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"><br><br>
-<b>MongoDB</b>
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mysql,mongodb" />
+</p>
 
 ---
 
-## 🚀 Proyectos principales
+## Proyectos principales
 
-### 🏠 Dooria
+### Dooria
 
 Aplicación web de **control de acceso para entornos residenciales mediante reconocimiento facial**, compuesta por dos interfaces:
 
@@ -99,43 +47,11 @@ Desarrollé la arquitectura completa del sistema, tanto frontend como backend. I
 
 Integré **face-api.js** para reconocimiento facial, **Socket.IO** para comunicación en tiempo real y **WebRTC** para la transmisión de video entre el intercom y los residentes.
 
-**Tecnologías**
+**Tecnologías:**
 
-<table>
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="35"><br>
-<sub>React</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ts" width="35"><br>
-<sub>TypeScript</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="35"><br>
-<sub>Tailwind CSS</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="35"><br>
-<sub>Node.js</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="35"><br>
-<sub>Express</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="35"><br>
-<sub>MongoDB</sub>
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,mongodb" />
+</p>
 
 **También:** face-api.js - Zod - WebRTC - Socket.IO
 
@@ -147,7 +63,7 @@ Integré **face-api.js** para reconocimiento facial, **Socket.IO** para comunica
 
 ---
 
-### 🛒 Zapi
+### Zapi
 
 Solución de **autoservicio para un kiosco de la facultad**, desarrollada para automatizar el proceso de compra mediante escaneo de productos, control de stock y pago digital.
 
@@ -161,43 +77,11 @@ Diseñé el modelo de ventas mediante **Sale, SaleItem y Payment**, permitiendo 
 
 En el frontend participé en el desarrollo con **React y TypeScript**, utilizando Hooks y Context API para el manejo del estado y la gestión del carrito.
 
-**Tecnologías**
+**Tecnologías:**
 
-<table>
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="35"><br>
-<sub>React</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ts" width="35"><br>
-<sub>TypeScript</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="35"><br>
-<sub>Node.js</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="35"><br>
-<sub>Express</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=prisma" width="35"><br>
-<sub>Prisma</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="35"><br>
-<sub>MySQL</sub>
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,prisma,mysql" />
+</p>
 
 **También:** Zod - Mercado Pago - Trello - Git
 
@@ -209,7 +93,7 @@ En el frontend participé en el desarrollo con **React y TypeScript**, utilizand
 
 ---
 
-## 🎓 Formación
+## Formación
 
 - **Tecnicatura en Desarrollo de Software** — ITU, Universidad Nacional de Cuyo (UNCUYO)
 - Autodidacta — aprendiendo de forma constante fuera del aula
