@@ -1,8 +1,10 @@
 <div align="center">
 
-# Facundo Palavecino
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Facundo+%F0%9F%91%8B;Bienvenido+a+mi+perfil" alt="Typing SVG" />
 
-### Full Stack Developer Junior
+<br/>
+
+### &lt; Desarrollador Full Stack /&gt;
 
 <br>
 
